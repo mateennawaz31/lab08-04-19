@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab 08</string>
+    <string name="signin">signin</string>
+    <string name="signup">signup</string>
+</resources>
